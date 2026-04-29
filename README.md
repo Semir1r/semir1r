@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-I am a **Full Stack Developer** specializing in building scalable and efficient web applications using **Laravel**, **React**, and **API-driven architectures**. With a deep passion for system design and performance optimization, I focus on creating robust backend systems and seamless frontend experiences. I am currently expanding my expertise into **AI-powered** and **data-driven solutions** to build the next generation of intelligent software.
+I am a **Full Stack Developer** specializing in building scalable and efficient web applications using **NestJS**,**Laravel**, **NodeJS**,**React**, and **API-driven architectures**. With a deep passion for system design and performance optimization, I focus on creating robust backend systems and seamless frontend experiences. I am currently expanding my expertise into **AI-powered** and **data-driven solutions** to build the next generation of intelligent software.
 
 - 🔭 I’m currently working on complex web architectures and AI integrations.
 - 🌱 I’m constantly refining my skills in system scalability and AI product deployment.
@@ -73,9 +73,9 @@ I am a **Full Stack Developer** specializing in building scalable and efficient 
 ### 📫 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://linkedin.com/in/semirali2064" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://YOUR_PORTFOLIO_URL" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:semir.ali2064@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
