@@ -1,64 +1,85 @@
-# 👋 Hi there, I'm Semir Ali
+# 👋 Hi, I'm semir1r
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Remote%20Work-brightgreen?style=flat-square" alt="Status">
-</p>
-
-## 💫 About Me:
-
-[cite_start]I am a practical **Full-Stack Developer** based in **Ethiopia**[cite: 10, 12]. [cite_start]I specialize in developing scalable web applications and building high-performance REST APIs[cite: 12, 14]. [cite_start]My background in **Computer Engineering** is now being supercharged with **Machine Learning** expertise to create data-driven, impactful solutions[cite: 13, 16].
-
-- [cite_start]🔭 I’m currently working on **Scalable Web Solutions using Laravel and React**[cite: 9, 12].
-- [cite_start]🌱 I’m currently learning **AI/ML Engineering** at 10 Academy[cite: 13, 21].
-- [cite_start]👯 I’m looking to collaborate on **Impactful Open Source Projects**[cite: 16].
-- [cite_start]💬 Ask me about **Laravel, Nest.js, or Data Integration**[cite: 9, 14, 17].
-- [cite_start]⚡ Fun fact: I love marrying traditional software engineering with emerging AI technologies[cite: 16].
+### Full Stack Developer | Crafting Scalable Systems & AI-Driven Solutions
 
 ---
 
-## 🌐 Socials:
+### 🚀 About Me
+
+I am a **Full Stack Developer** specializing in building scalable and efficient web applications using **Laravel**, **React**, and **API-driven architectures**. With a deep passion for system design and performance optimization, I focus on creating robust backend systems and seamless frontend experiences. I am currently expanding my expertise into **AI-powered** and **data-driven solutions** to build the next generation of intelligent software.
+
+- 🔭 I’m currently working on complex web architectures and AI integrations.
+- 🌱 I’m constantly refining my skills in system scalability and AI product deployment.
+- 💬 Ask me about Laravel, React, and Backend optimization.
+- ⚡ Fun fact: I enjoy diving deep into performance bottlenecks to squeeze out every millisecond.
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### 🏗️ Frameworks & Libraries
+
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+
+#### 🎨 Frontend & Design
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🧰 Tools & Platforms
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-be172d?style=for-the-badge&logo=minio&logoColor=white)
+![AdminJS](https://img.shields.io/badge/AdminJS-000000?style=for-the-badge&logo=adminjs&logoColor=white)
+
+---
+
+### 🏆 Highlights & Achievements
+
+- ⚡ **Performance Optimization:** Proven track record in improving system performance through architectural refinements and efficient code practices.
+- 🏗️ **Production Systems:** Successfully built and deployed enterprise-grade systems capable of handling real-world scale and complexity.
+- 🤝 **Collaborative Leadership:** Extensive experience working in cross-functional environments, ensuring seamless integration between design and development.
+- 🎓 **AI Mastery:** Completed the **Kifiya AI Mastery Program**, gaining specialized expertise in AI product development and deployment.
+
+---
+
+### 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/semirali2064" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:semir.ali2064@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=semir1r&show_icons=true&theme=tokyonight" alt="semir1r's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semir1r&layout=compact&theme=tokyonight" alt="semir1r's Top Languages" />
 </p>
 
 ---
 
-## 💻 My Skills:
-
-### 🚀 Backend & Web Development
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-[cite_start]![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) [cite: 9, 17]
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-[cite_start]![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) [cite: 9, 12, 17]
-[cite_start]![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) [cite: 17]
-
-### 🎨 Frontend & Tools
-[cite_start]![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) [cite: 9, 12, 17]
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-[cite_start]![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) [cite: 6, 17]
-[cite_start]![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) [cite: 17]
-
-### 🤖 Data Science & Machine Learning
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-[cite_start]![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) [cite: 17]
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-[cite_start]![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sql&logoColor=white) [cite: 5, 17]
-
----
-
-## 📊 GitHub Stats:
+### 📫 Connect With Me
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="GitHub Streak" />
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://YOUR_PORTFOLIO_URL" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
+
+<p align="center">
+  <i>"Simplicity is the soul of efficiency."</i>
+</p>
